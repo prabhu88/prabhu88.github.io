@@ -15,10 +15,13 @@ I thrive on turning complex problems into elegant solutions. With a background i
 
 Here are some of the notable projects you'll find in this repository:
 
-- **E-Commerce Platform:** Developed a full-stack e-commerce platform featuring product listings, user authentication, and payment processing.
+- **E-Invoice Applications:** Developed a full-stack GST E-invoice application is a powerful digital tool designed to streamline and simplify the invoicing process for businesses.
+- **GST Referencer Applications:** Developed a Desktop GST Referencer application designed to be an indispensable tool for Trade and Industry to keep abreast of legislative changes in GST and to ensure proper compliance and for Tax Administration to guide the Taxpayers.
+- **Stock Audit Applications:** A multi-platform stock audit application is a versatile software solution designed by using React, Node.js, mssql,electronjs. And this application used to streamline the stock audit process across various devices and operating systems. This application allows businesses to conduct comprehensive stock audits seamlessly on different platforms, including desktop computers, tablets, and smartphones.
+- **GST Compliance Software:** Designed a responsive Desktop applicaiton by using react,node,mongodb and electronJS. This powerful tool for businesses and professionals seeking to navigate the complexities of Goods and Services Tax (GST) regulations with ease.
 - **Personal Blog Site:** Designed a responsive blog website with a custom content management system (CMS) for easy article publishing.
 - **Task Manager App:** Built a task management application with real-time updates using React, Node.js, and WebSocket.
 
 Feel free to explore the repository to dive into the code behind these projects and other contributions. Your feedback and collaboration are always appreciated!
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/prabhu88) to stay updated on my latest projects and endeavors.
+Connect with me on [LinkedIn](https://www.linkedin.com/in/prabhu-s-99146921a/) to stay updated on my latest projects and endeavors.
