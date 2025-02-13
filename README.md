@@ -5,16 +5,17 @@ Welcome to my GitHub repository! I'm Prabhu, a passionate full-stack developer w
 
 I thrive on turning complex problems into elegant solutions. With a background in both frontend and backend technologies, I love to architect and develop seamless experiences that leave a lasting impact. My skill set includes:
 
-- **Frontend Development:** Creating responsive and engaging user interfaces using HTML, CSS, and JavaScript frameworks such as React.
-- **Backend Development:** Designing and implementing server-side logic using Node.js, Express, and other relevant technologies.
+- **Frontend Development:** Creating responsive and engaging user interfaces using Flutter Dart,HTML, CSS, and JavaScript frameworks such as React.
+- **Backend Development:** Designing and implementing server-side logic using Node.js, Express,Python and other relevant technologies.
 - **Database Management:** Building and optimizing databases with SQL and NoSQL solutions like MongoDB.
 - **Version Control:** Managing projects efficiently using Git and collaborating with teams through GitHub.
 - **DevOps:** Deploying applications, setting up CI/CD pipelines, and ensuring smooth operations on platforms like AWS.
 
 ## Featured Projects
 
-Here are some of the notable projects you'll find in this repository:
-
+Here are some of the notable projects:
+- **Centalized Payment & Receipt Management Sysem:** The web based application. This allows to raise payment request, and it's approval and process the payment though the secure bank api's. and entries are interated to tally appliction to streamline the process.
+- **Timesheet Management System:** The Timesheet Management system is a web and mobile-based application. Designed to help employees log,track, and manage their work hours efficiently.
 - **E-Invoice Applications:** Developed a full-stack GST E-invoice application is a powerful digital tool designed to streamline and simplify the invoicing process for businesses.
 - **GST Referencer Applications:** Developed a Desktop GST Referencer application designed to be an indispensable tool for Trade and Industry to keep abreast of legislative changes in GST and to ensure proper compliance and for Tax Administration to guide the Taxpayers.
 - **Stock Audit Applications:** A multi-platform stock audit application is a versatile software solution designed by using React, Node.js, mssql,electronjs. And this application used to streamline the stock audit process across various devices and operating systems. This application allows businesses to conduct comprehensive stock audits seamlessly on different platforms, including desktop computers, tablets, and smartphones.
